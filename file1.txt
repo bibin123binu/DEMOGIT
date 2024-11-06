@@ -3,3 +3,11 @@ form of association in which one class,
 the whole, contains a collection of other 
 classes, the parts; here, however, the lifecycle 
 of the parts does not 
+new parts
+gdghgjhsgfjhdsgfdsgh
+10
+20
+304050
+50
+ughroeshtusytuewt
+new line
